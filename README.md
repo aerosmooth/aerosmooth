@@ -31,6 +31,10 @@ I am a programming learner interested in building useful tools, solving algorith
 - Algorithms and data structures
 - Writing readable code and documentation
 
+## Open Source Contributions
+
+- [cmux](https://github.com/manaflow-ai/cmux) — Fixed a crash when opening files with Japanese names on some Bash versions. [Merged PR #13301](https://github.com/manaflow-ai/cmux/pull/13301).
+
 ## Featured Projects
 
 | Project | What it is | Role / Focus | Tech |
@@ -42,8 +46,3 @@ I am a programming learner interested in building useful tools, solving algorith
 | [CalculatorGUI](https://github.com/aerosmooth/CalculatorGUI) | A desktop calculator application with a graphical user interface. | Practiced GUI programming, event handling, and application structure. | Java |
 | [amida](https://github.com/aerosmooth/amida) | An implementation related to Amida-kuji / ladder lottery logic. | Practiced basic C programming, control flow, and data handling. | C |
 | [binary-search-tree-](https://github.com/aerosmooth/binary-search-tree-) | A learning project for binary search tree operations. | Implemented and studied core data structure behavior such as search, insertion, and traversal. | C |
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aerosmooth&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerosmooth&layout=compact)
